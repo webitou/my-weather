@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1565639503372,
+  "timestamp": 1565680597677,
   "index": "/my-weather/index.html",
   "assetGroups": [
     {
@@ -47,11 +47,11 @@
         "/my-weather/118-es2015.77f3f58277a0b8f406b0.js",
         "/my-weather/119-es2015.5ac21f35fb6b51f5f038.js",
         "/my-weather/12-es5.d1415883bc0b7e71b4af.js",
-        "/my-weather/13-es5.205d02f78099618064c6.js",
+        "/my-weather/13-es5.202888a4e68513d5450c.js",
         "/my-weather/14-es5.bea32ebe66d23ae3a63e.js",
         "/my-weather/15-es2015.1914dfe008b579db5ba4.js",
         "/my-weather/15-es5.9807a19a85b92ae4b815.js",
-        "/my-weather/16-es2015.91946cddd8fd66dd8ac5.js",
+        "/my-weather/16-es2015.a2c1f91bd0723f29dab4.js",
         "/my-weather/16-es5.7758971312cb1d657a51.js",
         "/my-weather/17-es2015.4baed61529441d03dec3.js",
         "/my-weather/17-es5.3daa0c6016d1c33efe3a.js",
@@ -240,8 +240,8 @@
         "/my-weather/main-es5.0842b8a6187692aaa65c.js",
         "/my-weather/polyfills-es2015.78749636bca321552af7.js",
         "/my-weather/polyfills-es5.cb4c97a376aa42d2b903.js",
-        "/my-weather/runtime-es2015.ae30dd1712d4a59602f2.js",
-        "/my-weather/runtime-es5.472b95066e22dab440e6.js",
+        "/my-weather/runtime-es2015.cab0568fd33471ff8160.js",
+        "/my-weather/runtime-es5.2252e6195c6009e0dceb.js",
         "/my-weather/styles.8d77051194a4a58fc37c.css"
       ],
       "patterns": []
@@ -306,11 +306,11 @@
     "/my-weather/118-es2015.77f3f58277a0b8f406b0.js": "6ab5c751ac0171264c0ce4270ad356b8637240c2",
     "/my-weather/119-es2015.5ac21f35fb6b51f5f038.js": "a7a9ad3a7ef8d39a7d28cfb6424ae61c5e794813",
     "/my-weather/12-es5.d1415883bc0b7e71b4af.js": "44107ebdf220715030699a68f261b0630b0ac4d5",
-    "/my-weather/13-es5.205d02f78099618064c6.js": "8d9030e54e9ea69de0f76431d8216c667dc5ae42",
+    "/my-weather/13-es5.202888a4e68513d5450c.js": "78d9b83ce46295b7835cbf950b5a52e8275325a9",
     "/my-weather/14-es5.bea32ebe66d23ae3a63e.js": "ff586c3bfb89a0789812d91df2e3e229b40cd23f",
     "/my-weather/15-es2015.1914dfe008b579db5ba4.js": "2498e03f65ff370ca072525f2d60adc6c402ccce",
     "/my-weather/15-es5.9807a19a85b92ae4b815.js": "94b015bac35b1c318dd85fe2faf44736e0dc9c18",
-    "/my-weather/16-es2015.91946cddd8fd66dd8ac5.js": "bb59c24f6d8fa38c226e26401af12d1e674fe2bc",
+    "/my-weather/16-es2015.a2c1f91bd0723f29dab4.js": "046ec5ded666ca4cb98615ed5b9f38ff6841e2f1",
     "/my-weather/16-es5.7758971312cb1d657a51.js": "1662d32fc1f02de448fb9f5c7e4e45734f26fabd",
     "/my-weather/17-es2015.4baed61529441d03dec3.js": "ac60f41fdaf0b43583e6f2232ff85acec933347d",
     "/my-weather/17-es5.3daa0c6016d1c33efe3a.js": "34706c231b751796997809b6577fbbadb8ce704f",
@@ -504,13 +504,13 @@
     "/my-weather/assets/shapes.svg": "5413e95adabcb2cb639970051f55e0ddb64ace53",
     "/my-weather/common-es2015.f8b0ee7432abef806144.js": "a6fcb735a4c714648a61ae63e2b9cd2fffbce0ba",
     "/my-weather/common-es5.a7bb69b277410599472c.js": "04f3025572054ed700c65bf7223b57d8ba2f9ee1",
-    "/my-weather/index.html": "6a4acf1a3be1fe831cc2cd2ffff0302a8c96919a",
+    "/my-weather/index.html": "2032cf6a9efc4d7694adbd7972144faf3fca9252",
     "/my-weather/main-es2015.1607f0dde8ee49ecba3a.js": "e3ab0302c90a5958f0e6483ca1698fd015128b9b",
     "/my-weather/main-es5.0842b8a6187692aaa65c.js": "7c751bbd38f371ab561851828baeab75f37fc9e0",
     "/my-weather/polyfills-es2015.78749636bca321552af7.js": "eb2c9ddc3cde0da88504dcf317a065baafdfdfc0",
     "/my-weather/polyfills-es5.cb4c97a376aa42d2b903.js": "21fcf1eee3ace17abfd1b6823013392058824b91",
-    "/my-weather/runtime-es2015.ae30dd1712d4a59602f2.js": "e3cc0e1a24814046895112ad797aa4a060ca89c9",
-    "/my-weather/runtime-es5.472b95066e22dab440e6.js": "d8cacd9e9209d8338af0ce93192b55bc1d7e85b6",
+    "/my-weather/runtime-es2015.cab0568fd33471ff8160.js": "e5a9d5ab4ad4e5e4cf76277b3643b54c23642845",
+    "/my-weather/runtime-es5.2252e6195c6009e0dceb.js": "ad9ce513f10dc5e18e4dd82f19d284de97f953cb",
     "/my-weather/styles.8d77051194a4a58fc37c.css": "5a80a046d6110b98efeb263c0fe6abed4d99a651"
   },
   "navigationUrls": [
