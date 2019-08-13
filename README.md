@@ -1,4 +1,4 @@
 # my-weather
 
-Exercice pour Cours Ionic 4
+Exercice de Cours Ionic 4
 
